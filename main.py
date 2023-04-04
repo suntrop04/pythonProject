@@ -45,4 +45,3 @@ def searchMiddle():
     print_students(new_group)
 
 searchMiddle()
-#1232
